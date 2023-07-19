@@ -1,3 +1,8 @@
+
+## Resultado Final
+
+![Screenshoot](/img/Screenshot.png)
+
 Esta es una guia muy sencilla, con los pasos mas importantes a la hora de montar un entorno profesional de trabajo, utilizando Parrot OS - Security Edition
 
 ## Primeros pasos
@@ -92,6 +97,3 @@ Instalamos la kitty desde el repositorio
 
 
 
-## Resultado Final
-
-![Screenshoot](/img/Screenshot.png)
