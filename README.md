@@ -94,4 +94,4 @@ Instalamos la kitty desde el repositorio
 
 ## Resultado Final
 
-![Screenshoot](/img/screenshoot.png)
+![Screenshoot](/img/Screenshot.png)
